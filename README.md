@@ -20,8 +20,8 @@ To get started with this project, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/iamxettry/Quill.git
-cd Quill
+git clone https://github.com/iamxettry/Quill-with-nextjs.git
+cd Quill-with-nextjs
 ```
 ### 2. Install dependencies
 ```bash
